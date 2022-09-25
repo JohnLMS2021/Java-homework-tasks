@@ -1,7 +1,7 @@
 // Задание №1
 public class Main {
     public static void main(String[] args) {
-        // Task 6 (Test Task 2 - Task 5)
+        // Задание 6 (Tестировать Задание №2 - Задание №5)
         printThreeWords();
         checkSumSign();
         printColor();
